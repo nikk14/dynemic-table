@@ -4,26 +4,26 @@ const Table = ()=>{
   const [name, setName] = useState('')
   const [age, setAge] = useState('')
   const [rows, setRows] = useState([
-    {
-      name: 'name',
-      age: 56
-    },
-    {
-      name: 'name',
-      age: 56
-    },
-    {
-      name: 'name',
-      age: 56
-    },
-    {
-      name: 'name',
-      age: 56
-    },
-    {
-      name: 'name',
-      age: 56
-    },
+    // {
+    //   name: 'name',
+    //   age: 56
+    // },
+    // {
+    //   name: 'name',
+    //   age: 56
+    // },
+    // {
+    //   name: 'name',
+    //   age: 56
+    // },
+    // {
+    //   name: 'name',
+    //   age: 56
+    // },
+    // {
+    //   name: 'name',
+    //   age: 56
+    // },
   ])
   const [selectedRows, setSelectedRows] = useState([])
 
